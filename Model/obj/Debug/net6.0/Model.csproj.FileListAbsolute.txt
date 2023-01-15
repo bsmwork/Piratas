@@ -1,0 +1,12 @@
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\bin\Debug\net6.0\Model.dll
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\Model.dll
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\bruno sanz\Documents\GitHub\Piratas\Model\obj\Debug\net6.0\ref\Model.dll
